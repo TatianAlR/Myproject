@@ -1,0 +1,200 @@
+body{
+	background-color: powderblue;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-attachment: fixed;
+}
+.vid{
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	margin-top: -310px;
+	margin-left: -550px;
+	width: 1100px;
+	height: 617px;
+	background-color: white;
+	
+}
+.zagolovok{
+	position: relative;
+	width: 1100px;
+	height: 50px;
+	background-color: black;
+}
+.trinity{
+	position: relative;
+	top: 14px;
+	float: left;
+	left: 22px;
+	font-family: Verdana, Helvetica, Sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+}
+.trinity1{
+	color: white;
+	text-decoration: none;
+}
+.zn{
+	position: relative;
+	float: left;
+	top: 16px;
+	left: 90px;
+}
+.znachki3 {
+	top: 18px;
+}
+.help{
+	position: relative;
+	float: left;
+	left: 418px;
+	top: 14px;
+}
+.people{
+	position: relative;
+	float: left;
+	left: 630px;
+	top: 14px;
+}
+.peopleM{
+	position: relative;
+	float: left;
+	left: 657px;
+	top: 14px;
+}
+.user{
+	position: absolute;
+	float: right; 
+	right: 50px;
+	top: 14px;	
+}
+.sty{
+	color: gray;
+	text-decoration: none;
+	font-family: Verdana, Helvetica, Sans-serif;
+	font-size: 8pt;
+}
+.avatar{
+	position: absolute;
+	float: right;
+	top: 10px;
+	right: 15px;
+}
+.menu{
+	position: relative;
+	width: 1100px;
+	height: 50px;
+	background-color:  whitesmoke;
+	border-bottom: 1px solid silver;
+}
+.block{
+	position: relative;
+	float: left;
+	height: 50px;
+    display: block; 
+    color: black;  
+    text-decoration: none; 
+    border-bottom: 1px silver solid; 
+	border-right: 1px silver solid; 
+	text-align: center;
+	font-family: Verdana, Helvetica, Sans-serif;
+	font-size: 8pt;
+	font-weight: bold;
+}
+.dif{
+padding: 16px;
+}
+.block:hover{
+	color: blue; 
+	border-bottom:1px blue solid; 
+}
+.block:active{
+	color: blue; 
+	border-bottom:1px blue solid; 
+}
+.vib{
+	top: 12px;
+	height: 20px;
+	width: 90px;
+	display: inline-block;
+	text-decoration: none;
+	font-family: Verdana, Helvetica, Sans-serif;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 5px;
+	border-radius: 5px;
+}
+.button{
+	position: relative;
+	float: left;
+	left: 72px;
+	background: white;
+	color: black; 
+	border: 1px silver solid;
+}
+.button:hover{
+	color: blue; 
+	border:1px blue solid; 
+}
+.button:active{
+	color: blue; 
+	border:1px blue solid; 
+}
+.button1{
+    position: absolute;
+	float: right;
+	right: 15px;
+	background: blue;
+	color: white; 
+}
+.obzor{
+	position: relative;
+	width: 1050px;
+	height: 100px;
+	background-color: white;
+}
+.review{
+	position: relative;
+	padding-top: 40px;
+	font-family: Verdana, Helvetica, Sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: center;
+}
+.style{
+	position: relative;
+	float: left;
+    background: white;
+	border-bottom: 1px solid silver;
+	border-top: 1px solid silver;
+	width: 1100px;
+	height: 50px;
+}
+.text{
+	float: left;	
+	left: 15px;
+	position: absolute;
+	float: left;
+	top: 15px;
+}
+.categories{	
+	left: 500px;
+	position: absolute;
+	float: left; 
+	text-decoration: none;
+	top: 15px;
+}
+.st{
+	color: blue;
+	text-decoration: none;
+}
+.data{	
+	left: 750px;
+	position: absolute;
+	float: left;
+	top: 15px;
+}
+
+
+
+	
